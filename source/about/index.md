@@ -4,6 +4,7 @@ date: 2021-01-14 09:00:43
 top_img: https://cdn.jsdelivr.net/gh/huyw96/hexo-butterfly-code@v1.0/source/img/bg/bg5.jpg
 type: "about"
 aside: false
+comments: false
 ---
 <img src="https://cdn.jsdelivr.net/gh/huyw96/hexo-butterfly-code@v1.0/source/img/myblog.jpg" style="border-radius:50%;width:110px;height:auto">
 <div style="font-size:1.7rem;background-image:linear-gradient(92deg,rgb(0, 191, 255) 0,rgb(0, 191, 255) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;font-family:myfont;text-align: center;">yaowen</div>
@@ -11,7 +12,7 @@ aside: false
 ### 关于我
 > 目前主要以小程序开发为主，以及web前端和.NET Core。
 ### 技术栈
-前端
+<a>前端</a>
 {% checkbox green checked, uniapp小程序 %}
 {% checkbox green checked, Vue全家桶 %}
 {% checkbox green checked, HTML5+CSS3 %}
@@ -20,19 +21,19 @@ aside: false
 {% checkbox green checked, Ajax %}
 {% checkbox green checked, JSON %}
 {% checkbox green checked, Node.js %}
-后端
+<a style="margin-top:0.8rem;display:block">后端</a>
 {% checkbox blue checked, C# %}
 {% checkbox blue checked, .NET Core %}
 {% checkbox blue checked, ASP.NET %}
 {% checkbox blue checked, WebApi %}
 {% checkbox blue checked, WebService %}
-数据库
+<a style="margin-top:0.8rem;display:block">数据库</a>
 {% checkbox yellow checked, SQL Server %}
 {% checkbox yellow checked, MySQL %}
-在学习
+<a style="margin-top:0.8rem;display:block">在学习</a>
 {% checkbox red, Python %}
 {% checkbox red, 数据挖掘分析 %}
-{% checkbox red, 数据Pandas挖掘分析 %}
+{% checkbox red, Pandas %}
 ### 关于本站
 本站基于[Hexo](https://hexo.io/) 框架 + [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 主题开发
 博客中的部分图片源于网络，侵删
