@@ -12,7 +12,6 @@ avatar: your Blog's avatar
 descr: the description of your blog
 ```
 ## 注意事项
-{% checkbox times red checked, 本站暂时未添加评论系统，后续再添加。 %}
 {% checkbox checked, 本站不参与商业性网站、下载站、视频站等 %}
 {% checkbox green checked, 网站要有维护，定期或不定期均可，线下朋友请忽略这一条 %}
 {% checkbox green checked, 有一定数量的原创文章，建站一周以上（大佬可以无视以上要求） %}
