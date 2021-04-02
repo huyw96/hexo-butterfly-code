@@ -1,16 +1,19 @@
 ---
 title: C# Ajax ashx DataTable 下拉加载 分页
-date: 2020-12-20 12:00:00
-categories: "C#"
-top_img: https://cdn.jsdelivr.net/gh/huyw96/hexo-butterfly-code@v1.0/source/img/bg/bg3.png
-cover: https://cdn.jsdelivr.net/gh/huyw96/hexo-butterfly-code@v1.0/source/img/article/article2.png
-tags: 
+categories: C#
+top_img: >-
+  https://cdn.jsdelivr.net/gh/huyw96/hexo-butterfly-code@v1.0/source/img/bg/bg3.png
+cover: >-
+  https://cdn.jsdelivr.net/gh/huyw96/hexo-butterfly-code@v1.0/source/img/article/article2.png
+tags:
   - C#
   - Ajax
   - ashx
   - DataTable
   - 下拉加载
   - 分页
+abbrlink: fa5290e
+date: 2020-12-20 12:00:00
 ---
 # Html代码：
 ```javascript
